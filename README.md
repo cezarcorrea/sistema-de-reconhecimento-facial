@@ -5,7 +5,7 @@
 
 Este projeto demonstra um pipeline completo para treinar e testar um modelo de detecção de faces com **YOLOv5** no **Google Colab**.
 
-Foi utilizado o mesmo codigo do projeto [cezarcorrea-Deteccao-Gato-Cachorro](https://github.com/cezarcorrea/cezarcorrea-Deteccao-Gato-Cachorro), com apenas algumas modificaçãos nas pastas principais e nos arquivos de treinamento, por conter mais de um objeto a ser detectado, foi necessario criar um dataset com mais de 60 imagens de treinamento sendo necessario executar a 200 epochs ou superior.
+Foi utilizado o mesmo codigo do projeto [cezarcorrea-Deteccao-Gato-Cachorro](https://github.com/cezarcorrea/cezarcorrea-Deteccao-Gato-Cachorro), com apenas algumas modificações nas pastas principais e nos arquivos de treinamento, por conter mais de um objeto a ser detectado, foi necessario criar um dataset com mais de 60 imagens de treinamento sendo necessario executar a 200 epochs ou superior.
 
 ## Características Principais
 
